@@ -111,3 +111,5 @@ firmwares/*
 
 .DS_Store
 .idea/
+
+*.ini
