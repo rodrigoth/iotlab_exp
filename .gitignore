@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#firmwares
+firmwares/*
+
+# exception
+!firmwares/.gitkeep
+
+.DS_Store
+.idea/
