@@ -106,10 +106,11 @@ venv.bak/
 #firmwares
 firmwares/*
 
+settings.ini
+
 # exception
 !firmwares/.gitkeep
 
 .DS_Store
 .idea/
 
-*.ini
